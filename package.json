@@ -9,5 +9,8 @@
   "keywords": [],
   "author": "elena",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "dotenv": "^16.5.0"
+  }
 }
