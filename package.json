@@ -10,7 +10,8 @@
   "author": "elena",
   "license": "ISC",
   "description": "",
-  "devDependencies": {
+  "dependencies": {
+    "cross-env": "^7.0.3",
     "dotenv": "^16.5.0"
   }
 }
