@@ -4,7 +4,9 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "dev-text": "cross-env PORT=8000 node ./http-text.js"
+    "dev0-text": "nodemon cross-env PORT=8000 node ./http-text.js",
+    "dev1-text": "nodemon ./http-text.js",
+    "start-text": "cross-env PORT=8000 node ./http-text.js"
   },
   "keywords": [],
   "author": "elena",
